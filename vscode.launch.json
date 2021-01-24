@@ -1,0 +1,17 @@
+{
+  "version": "0.0.0",
+  "configurations": [
+      {
+          "name": "(gdb) Debug",
+          "type": "cppdbg",
+          "request": "launch",
+          "program": "${workspaceRoot}/build/sign-lang",
+          "args": ["--input=assets/video.mp4", "--algo=MOG2"],
+          "stopAtEntry": false,
+          "cwd": "${workspaceFolder}",
+          "environment": [],
+          "externalConsole": false,
+          "MIMode": "gdb"
+      }
+  ]
+}
