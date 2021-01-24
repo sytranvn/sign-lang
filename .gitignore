@@ -1,0 +1,17 @@
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+build
+includes/build_opencv
+includes/install
+includes/opencv
+includes/opencv_contrib
+*.mp4
